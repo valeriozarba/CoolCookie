@@ -1,0 +1,30 @@
+{
+  "name": "cool-cookie-react",
+  "version": "1.0.0",
+  "description": "A simple project in ReactJs to show the cookie banner",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "types": "src/CookiePolicy.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valeriozarba/CoolCookie.git"
+  },
+  "keywords": [
+    "react",
+    "cookie",
+    "gdpr",
+    "banner"
+  ],
+  "author": "Valerio Zarba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valeriozarba/CoolCookie/issues"
+  },
+  "homepage": "https://github.com/valeriozarba/CoolCookie#readme",
+  "dependencies": {
+    "react": "^18.0.0"
+  }
+}
