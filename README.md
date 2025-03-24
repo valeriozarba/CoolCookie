@@ -5,7 +5,7 @@ Un semplice componente React per gestire la cookie policy dei siti web. Permette
 ## Installazione
 
 ```sh
-npm install react-cookie-policy
+npm install coolcookie
 ```
 
 ## Utilizzo
@@ -19,7 +19,7 @@ function App() {
   return (
     <div>
       <h1>Benvenuto nel sito</h1>
-      <CookiePolicy
+      <CoolCookie
         message="Usiamo i cookie per migliorare la tua esperienza."
         acceptText="Accetta"
         declineText="Rifiuta"
