@@ -1,5 +1,5 @@
 {
-  "name": "cool-cookie-react",
+  "name": "coolcookie",
   "version": "1.0.0",
   "description": "A simple project in ReactJs to show the cookie banner",
   "main": "src/index.js",
