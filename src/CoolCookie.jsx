@@ -34,7 +34,7 @@ const CoolCookie = ({
 
   return (
     <div className={`coolcookie fixed bottom-0 left-0 w-full p-4 bg-gray-900 text-white flex justify-between items-center ${className}`}>
-      <div className="coolcookie">
+      <div className="coolcookie-content">
         <p className="text-sm">{message}</p>
         <div>
           <button onClick={handleAccept} className="bg-green-500 text-white px-4 py-2 rounded mr-2">{acceptText}</button>
