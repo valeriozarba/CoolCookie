@@ -10,5 +10,4 @@ declare module "coolcookie" {
     onDecline?: () => void;
   }
   const CoolCookie: FC<CoolCookieProps>;
-  export default CoolCookie;
 }

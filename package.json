@@ -1,6 +1,6 @@
 {
   "name": "coolcookie",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple project in ReactJs to show the cookie banner",
   "main": "src/index.js",
   "module": "src/index.js",
