@@ -26,5 +26,8 @@
   "homepage": "https://github.com/valeriozarba/CoolCookie#readme",
   "dependencies": {
     "react": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.2"
   }
 }

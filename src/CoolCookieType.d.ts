@@ -1,5 +1,6 @@
+import { FC } from "react";
 declare module "coolcookie" {
-  import { FC } from "react";
+  
   interface CoolCookieProps {
     message?: string;
     acceptText?: string;
