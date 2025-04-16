@@ -4,7 +4,7 @@
   "description": "A simple project in ReactJs to show the cookie banner",
   "main": "src/index.js",
   "module": "src/index.js",
-  "types": "src/CookiePolicy.d.ts",
+  "types": "src/CoolCookieType.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -26,5 +26,8 @@
   "homepage": "https://github.com/valeriozarba/CoolCookie#readme",
   "dependencies": {
     "react": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.2"
   }
 }
